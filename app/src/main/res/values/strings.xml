@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Birthday Greetings</string>
+    <string name="enter_friends_name">Enter Friends Name</string>
+    <string name="todo">TODO</string>
+    <string name="pratik">Pratik</string>
+    <string name="welcome_dear_user">WELCOME DEAR USER</string>
+    <string name="made_by_pratik_chakraborty_splash">Made by - Pratik Chakraborty</string>
+</resources>
