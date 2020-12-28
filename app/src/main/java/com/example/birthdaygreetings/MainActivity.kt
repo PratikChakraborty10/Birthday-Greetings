@@ -7,7 +7,7 @@ import android.view.View
 import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
 
-
+// main kotlin class file
 class MainActivity() : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
